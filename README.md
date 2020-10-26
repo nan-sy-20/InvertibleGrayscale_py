@@ -1,1 +1,1 @@
-# InvertibleGrayscale_py
+# InvertibleGrayscale_Reimplementation_in_Pytorch
